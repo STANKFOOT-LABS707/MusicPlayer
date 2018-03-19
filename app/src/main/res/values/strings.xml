@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="song1"><![CDATA[Adele\n  Skyfall]]></string>
+    <string name="song2"><![CDATA[U2\n  One]]></string>
+</resources>
